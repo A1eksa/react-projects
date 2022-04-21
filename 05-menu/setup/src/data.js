@@ -71,5 +71,13 @@ const menu = [
     img: './images/item-9.jpeg',
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
+  {
+    id: 10,
+    title: 'mojito',
+    category: 'cocktail',
+    price: 12.99,
+    img: './images/item-5.jpeg',
+    desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
+  },
 ];
 export default menu;
