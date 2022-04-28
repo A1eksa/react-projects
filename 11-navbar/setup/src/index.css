@@ -204,6 +204,9 @@ nav {
   .nav-toggle {
     display: none;
   }
+  /* !important is used to override and add importance and will override all
+   previous styling, reason we use it here is that we have inline styling in 
+   navbar in useEffect and that takes importance in hyerrachy  */
   .links-container {
     height: auto !important;
   }
